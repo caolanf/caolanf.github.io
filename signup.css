@@ -1,0 +1,21 @@
+body {
+  width:100%;
+  background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NEoiW0A6xim8g2mly/small-boat-floating-in-vast-ocean-aerial_nphtso70e__F0000.png');
+}
+
+#form {
+	margin-top:200px;
+	width:100%;
+}
+#form-card {
+	max-width:400px;
+	margin:0 auto !important;
+}
+.sign-header {
+	margin:0 auto !important;
+	width:174px;
+}
+label {
+	left:0;
+}
